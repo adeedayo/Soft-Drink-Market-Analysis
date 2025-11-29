@@ -19,7 +19,7 @@ Coca-Cola, Pepsi and Fanta were the most widely available soft drink products ac
 
 Coca-Cola led strongly in product availability, appearing in more outlets than any other brand. Pepsi followed closely behind, while other brands like Mountain Dew and Fayrouz showed noticeably lower presence. PET bottles stood out as the most used packaging format across almost every product, suggesting both retailer preference and strong consumer demand for PET.
 
-<img src="Overview_page.png">
+<img src="Overview_page.png" width=400px>
 
 
 Stock levels revealed performance gaps. Although some top brands were consistently well stocked, many products showed large portions of partial stock or almost-empty status, which may mean restocking delays or fast turnover not matched by supply. Display analysis showed heavy reliance on display stands, shelf and carton displays inside stores, while refrigerator and cooler displays were used less often, limiting impulse cold-drink purchases.
