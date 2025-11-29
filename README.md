@@ -4,8 +4,6 @@ Soft drinks are sold through thousands of small retail outlets across Alimosho, 
 # Data Structure & Initial Checks
 The original dataset included 1,500 survey records and 38 columns, covering outlet details, product names, packaging types, and stock conditions. After unpivoting product, display types and packaging indicators to create a usable analysis structure, the dataset expanded to about 450,000 rows, because each product and package combination was separated into its own observation.
 
-![Dashboard Screenshot](https://github.com/user-attachments/assets/c7dd603f-0547-4ff0-9e50-80151f832f42)
-
    <img width="331" height="321" alt="image" src="https://github.com/user-attachments/assets/c7dd603f-0547-4ff0-9e50-80151f832f42" />
 
 
