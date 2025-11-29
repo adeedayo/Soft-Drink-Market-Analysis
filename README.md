@@ -21,8 +21,7 @@ Insight Deep Dive
 
 Coca-Cola led strongly in product availability, appearing in more outlets than any other brand. Pepsi followed closely behind, while other brands showed noticeably lower presence. PET bottles stood out as the most used packaging format across almost every product, suggesting both retailer preference and strong consumer demand for PET.
 
-![Dashboard Screenshot](https://github.com/user-attachments/assets/53bfd15e-22b0-4aa8-b75a-2f335e37b416)
-
+<img width="1312" height="736" alt="image" src="https://github.com/user-attachments/assets/23d25b6d-2ef4-4f05-88f7-af9f4c58c307" />
 
 Stock levels revealed performance gaps. Although some top brands were consistently well stocked, many products showed large portions of partial stock or almost-empty status, which may mean restocking delays or fast turnover not matched by supply. Display analysis showed heavy reliance on shelf and carton displays inside stores, while refrigerator and cooler displays were used less often, limiting impulse cold-drink purchases.
 
