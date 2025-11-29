@@ -5,7 +5,8 @@ Data Structure & Initial Checks
 
 The original dataset included 1,500 survey records and 38 columns, covering outlet details, product names, packaging types, and stock conditions. After unpivoting product and packaging indicators to create a usable analysis structure, the dataset expanded to about 450,000 rows, because each product and package combination was separated into its own observation.
 
-<img width="336" height="326" alt="image" src="https://github.com/user-attachments/assets/9c2e3b84-9806-4541-a478-2700066475df" />
+![Dashboard Screenshot](https://github.com/user-attachments/assets/9c2e3b84-9806-4541-a478-2700066475df)
+
 
 Prior to analysis, a series of data quality checks were conducted using Power Query Editor to ensure accuracy and reliability of insights. Key steps included:
 
