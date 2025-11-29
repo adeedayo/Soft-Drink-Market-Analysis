@@ -20,7 +20,7 @@ Coca-Cola, Pepsi and Fanta were the most widely available soft drink products ac
 
 # Insights Deep-Dive
 
-Coca-Cola led strongly in product availability, appearing in more outlets than any other brand. Pepsi followed closely behind, while other brands showed noticeably lower presence. PET bottles stood out as the most used packaging format across almost every product, suggesting both retailer preference and strong consumer demand for PET.
+Coca-Cola led strongly in product availability, appearing in more outlets than any other brand. Pepsi followed closely behind, while other brands like Mountain Dew and Fayrouz showed noticeably lower presence. PET bottles stood out as the most used packaging format across almost every product, suggesting both retailer preference and strong consumer demand for PET.
 
 <img width="1312" height="735" alt="image" src="https://github.com/user-attachments/assets/7177fb70-e403-4578-923a-59b0d3cb1a2d" />
 
@@ -28,8 +28,7 @@ Coca-Cola led strongly in product availability, appearing in more outlets than a
 
 Stock levels revealed performance gaps. Although some top brands were consistently well stocked, many products showed large portions of partial stock or almost-empty status, which may mean restocking delays or fast turnover not matched by supply. Display analysis showed heavy reliance on display stands, shelf and carton displays inside stores, while refrigerator and cooler displays were used less often, limiting impulse cold-drink purchases.
 
-<img width="1317" height="737" alt="image" src="https://github.com/user-attachments/assets/2c9e7eb4-38d4-4e39-9c28-380b09f423d6" />
-
+<img width="1433" height="798" alt="image" src="https://github.com/user-attachments/assets/63c006be-243d-406c-81b7-db649030a789" />
 
 
 
@@ -43,7 +42,7 @@ Frequent low-stock and almost-empty levels suggest that distribution schedules m
 
 Action: Work with distributors to increase delivery frequency for high-demand products, especially in busy corridors like Akowonjo, Ijaiye and Ijegun.
 Action: Create a simple reorder alert plan for outlets that frequently show low stock.
-
+ 
 ### Expand Cooler and Premium Display Placement
 Most products are displayed on display stand, shelves or cartons, limiting impulse buying opportunities.
 
