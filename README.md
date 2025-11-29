@@ -4,9 +4,6 @@ Soft drinks are sold through thousands of small retail outlets across Alimosho, 
 # Data Structure & Initial Checks
 The original dataset included 1,500 survey records and 38 columns, covering outlet details, product names, packaging types, and stock conditions. After unpivoting product, display types and packaging indicators to create a usable analysis structure, the dataset expanded to about 450,000 rows, because each product and package combination was separated into its own observation.
 
-   <img width="331" height="321" alt="image" src="https://drive.google.com/file/d/1Xcguj1ywipeK1g4KVu2EVde38ujTtjOM/view" />
-
-
 Prior to analysis, a series of data quality checks were also conducted using Power Query Editor to ensure accuracy and reliability of insights. 
 
 Key steps included:
@@ -22,19 +19,18 @@ Coca-Cola, Pepsi and Fanta were the most widely available soft drink products ac
 
 Coca-Cola led strongly in product availability, appearing in more outlets than any other brand. Pepsi followed closely behind, while other brands like Mountain Dew and Fayrouz showed noticeably lower presence. PET bottles stood out as the most used packaging format across almost every product, suggesting both retailer preference and strong consumer demand for PET.
 
-<img width="1312" height="735" alt="image" src="https://github.com/user-attachments/assets/7177fb70-e403-4578-923a-59b0d3cb1a2d" />
-
+![Screenshot](./Images/Overview_page.png)
 
 
 Stock levels revealed performance gaps. Although some top brands were consistently well stocked, many products showed large portions of partial stock or almost-empty status, which may mean restocking delays or fast turnover not matched by supply. Display analysis showed heavy reliance on display stands, shelf and carton displays inside stores, while refrigerator and cooler displays were used less often, limiting impulse cold-drink purchases.
 
-<img width="1433" height="798" alt="image" src="https://github.com/user-attachments/assets/63c006be-243d-406c-81b7-db649030a789" />
-
+![Screenshot](./Images/Distribution_strength.png)
 
 
 Mapping outlet locations showed dense clusters around key commercial roads where customer traffic is high, meaning strong competition. Meanwhile, fewer outlets appeared across the Murtala Muhammad Airport axis and parts of the southwest rural edge, showing room for market growth.
 
-<img width="1312" height="735" alt="image" src="https://github.com/user-attachments/assets/6bd845ba-ab91-40c2-8780-5c1a105b66be" />
+![Screenshot](./Images/Overview_page.png)
+
 
 # Recommendations
 ### Improve Stock Consistency
