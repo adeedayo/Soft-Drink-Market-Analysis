@@ -1,4 +1,4 @@
-# Project Background
+ # Project Background
 Soft drinks are sold through thousands of small retail outlets across Alimosho, Lagos, ranging from shops and kiosks to supermarkets and restaurants. With many brands competing for visibility and shelf space, distributors and retailers need clear insight into which products are available, how well they are stocked, and how packaging and display choices affect consumer buying decisions. I analyzed field survey data collected across retail outlets to understand product availability, packaging trends, display methods, and stock condition, with the goal of uncovering opportunities for better distribution and merchandising.
 
 # Data Structure & Initial Checks
